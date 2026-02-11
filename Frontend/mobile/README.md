@@ -1,9 +1,15 @@
 📂 Project Structure
+
 project-root
  ├── backend
  ├── frontend_mobile
  ├── README.md
+
+
+ 
 ⚙️ Installation (Local Setup)
+
+
 Backend
 cd backend
 npm install
@@ -12,19 +18,25 @@ Frontend (Expo)
 cd frontend_mobile
 npm install
 npx expo start
+
+
 📦 APK Download
 
-(Add your Expo APK link here)
 
-APK Link: https://your-apk-link
+
+APK Link: [https://your-apk-link](https://expo.dev/artifacts/eas/bSydtEYYaHuPo8o8WKsVmM.apk)
+
+
 🌐 Backend Deployment
 
 (Add deployed backend URL later)
 
-Backend URL: https://your-backend-url
+Backend URL:[ https://your-backend-url](http://localhost:5000)
+
+
 👨‍💻 Author
 
-Yashwant
+'''Yashwant''''
 
 In the output, you'll find options to open the app in a
 
