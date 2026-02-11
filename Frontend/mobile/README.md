@@ -1,20 +1,30 @@
-# Welcome to your Expo app 👋
+📂 Project Structure
+project-root
+ ├── backend
+ ├── frontend_mobile
+ ├── README.md
+⚙️ Installation (Local Setup)
+Backend
+cd backend
+npm install
+npm start
+Frontend (Expo)
+cd frontend_mobile
+npm install
+npx expo start
+📦 APK Download
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+(Add your Expo APK link here)
 
-## Get started
+APK Link: https://your-apk-link
+🌐 Backend Deployment
 
-1. Install dependencies
+(Add deployed backend URL later)
 
-   ```bash
-   npm install
-   ```
+Backend URL: https://your-backend-url
+👨‍💻 Author
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
+Yashwant
 
 In the output, you'll find options to open the app in a
 
